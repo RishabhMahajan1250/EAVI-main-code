@@ -1,6 +1,4 @@
 
-/* this is the program which was uploaded on the arduino to accomplish the assigned task by the team inferno dtu for
- recruitment*/
 #include <Servo.h>
 Servo myservo; 
 #define trigpin 2
